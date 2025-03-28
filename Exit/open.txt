@@ -1,0 +1,2 @@
+You need a key and a crowbar on your inventory to open the door.
+If you found both, read win.txt
