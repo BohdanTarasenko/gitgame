@@ -1,2 +1,2 @@
-You need a password and a crowbar on your inventory to open the door.
-If you found both, read win.txt
+The door does not open even though you entered the password. It may be stuck. Use the crowbar
+If you did both, read win.txt
